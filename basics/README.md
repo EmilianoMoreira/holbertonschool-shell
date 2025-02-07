@@ -1,0 +1,1 @@
+empezamos con shell bascis 
